@@ -1,7 +1,5 @@
 # Covid_Web_Application
 
-Hello and welcome to a demonstration of my submission for CS50w&#39;s Web programming with Python and JavaScript.
-
 The web application I have created is a patient management system for a hospital to keep track of patients during this COVID pandemic.
 
 The Web Application is created using HTML and CSS for the frontend, Django and Sqlite3 for the back end, JQuery, Bootstrap JS and addition JavaScript for styling and displaying information.
